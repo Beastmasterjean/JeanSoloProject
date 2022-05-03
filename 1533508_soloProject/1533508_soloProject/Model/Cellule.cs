@@ -40,9 +40,11 @@ namespace _1533508_soloProject.Model
             }
         }
 
-
-        public Cellule() { }
-
+        public RelayCommand IsAliveClicked { get; set; }
+        public Cellule() 
+        {
+            IsAliveClicked = new RelayCommand((call) => IsAlive = !IsAlive);
+        }
 
 
         #region Interface INotifyPropertyChanged
