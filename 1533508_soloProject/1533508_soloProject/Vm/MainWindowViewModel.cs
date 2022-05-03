@@ -344,7 +344,7 @@ namespace _1533508_soloProject
                         for(int i = 0; i < 60000; i++)
                         {
                             TestAliveTest(test);
-                            await Task.Delay(10);
+                            await Task.Delay(50);
                         }
                         
                     }
