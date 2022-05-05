@@ -4,11 +4,17 @@
 
 ## Guide d'installation
 Il faut d'abord ouvrir JeuxDeLaVieSetup et la page suivante va ouvrir. Il faut choisir la langue désirée et appuyer sur OK.
+
 ![ass](Assets/OuvertureInstall.PNG)
+
 Ensuite la page suivant demande le chemin désiré pour installer le jeu. Il faut entrer un chemin et appuyer sur Suivant.
+
 ![ass](Assets/InstallChemin.PNG)
+
 La page suivante va ensuite s'afficher. Il faut cocher si oui ou non le jeu aura une icone sur le bureau et ensuite appuyer sur Suivant.
+
 ![ass](Assets/InstallIconeBureau.PNG)
+
 La page qui suit donne les ordres que doit suivre l'installateur. Tout ce qu'il faut faire c'est d'appuyer sur Installer.
 ![ass](Assets/InstallPret.PNG)
 La dernière page indique la fin de l'installation. Il faut cocher Exécuter Jeu de la vie pour démarrer le jeu immédiatement après la fermeture de l'installateur. Pour terminer, il faut appuyer sur Terminer.
