@@ -35,7 +35,7 @@ Le bouton Forme 1 affiche la première forme qui est la suivante.
 
 Le bouton Forme 2 affiche la deuxième forme qui est la suivante.
 
-![ass](Assets/AppF2.PNG)
+![ass](Assets/appF2.PNG)
 
 Le bouton Forme 3 affiche la troisième forme qui est la suivante.
 
